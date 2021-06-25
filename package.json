@@ -1,0 +1,21 @@
+{
+  "name": "yes",
+  "version": "0.1.0",
+  "description": "adoption site for pets",
+  "main": "yes",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Joselin Morales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
